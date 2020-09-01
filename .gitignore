@@ -1,0 +1,6 @@
+# IDEA IDE files
+.idea/
+
+# Third-party
+third-party/kafka/
+third-party/zookeeper/
