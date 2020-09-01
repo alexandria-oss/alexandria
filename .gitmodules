@@ -1,0 +1,3 @@
+[submodule "identity-api"]
+	path = identity-api
+	url = git@github.com:alexandria-oss/identity-api
