@@ -31,7 +31,7 @@ Therefore, we use our own API architecture implementing a Proxy pattern to hide 
 
 The following application architecture **should** be used whenever a new service is created.
 
-![Alexandria HTTP Proxy Service architecture](https://raw.githubusercontent.com/maestre3d/alexandria/master/docs/Alexandria%20Service.png "Alexandria HTTP Proxy Service architecture")
+![Alexandria HTTP Proxy Service architecture](https://raw.githubusercontent.com/alexandria-oss/alexandria/master/docs/Alexandria%20Service.png "Alexandria HTTP Proxy Service architecture")
 
 ## Error handling
 We expect to keep consistency in error handling.
@@ -130,5 +130,5 @@ alexandria:
 For every single release, all software deployed **must** use [Semantic Versioning](https://semver.org/) guidelines to keep consistency and inform every single developer the best way possible.
 
 ## Specific Guidelines
-- [Golang](https://github.com/maestre3d/alexandria/blob/master/docs/GO_CONTRIBUTION.md)
+- [Golang](https://github.com/alexandria-oss/alexandria/blob/master/docs/GO_CONTRIBUTION.md)
 
