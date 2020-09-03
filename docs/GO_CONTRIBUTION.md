@@ -33,7 +33,7 @@ Therefore, we use our own API architecture implementing a Proxy pattern to hide 
 
 The following application architecture **should** be used whenever a new service is created.
 
-![Alexandria HTTP Proxy Service architecture](https://raw.githubusercontent.com/maestre3d/alexandria/master/docs/Alexandria%20Service.png "Alexandria HTTP Proxy Service architecture")
+![Alexandria HTTP Proxy Service architecture](https://raw.githubusercontent.com/alexandria-oss/alexandria/master/docs/Alexandria%20Service.png "Alexandria HTTP Proxy Service architecture")
 
 
 ## Concurrency
